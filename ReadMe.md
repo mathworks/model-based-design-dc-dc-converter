@@ -6,3 +6,5 @@ https://www.mathworks.com/videos/developing-dc-dc-converter-control-in-simulink-
 
 ## Contact
 Vasco Lenzi - vlenzi@mathworks.com
+
+[![View Developing DC-DC Converter Control in Simulink on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://ch.mathworks.com/matlabcentral/fileexchange/68536-developing-dc-dc-converter-control-in-simulink)
