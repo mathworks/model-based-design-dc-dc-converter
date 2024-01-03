@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ExportProfile Location="919a854a-e2c6-4a2c-ab67-b2230b4ae6ec">
+    <Info Name="ForFileExchange"/>
+    <Filter Location="Label">
+        <Filter Location="5b90050e-18df-4f0a-910f-5c9f435e0024">
+            <Info Data="FileClassCategory"/>
+        </Filter>
+    </Filter>
+    <Filter Location="FileLabel">
+        <Filter Location="5b90050e-18df-4f0a-910f-5c9f435e0024">
+            <Info Data="FileClassCategory"/>
+        </Filter>
+    </Filter>
+</ExportProfile>
