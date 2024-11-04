@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Info File="Data/Parameters/workspaceParameters.m" GroupUUID="default" Icon="" Name="workspaceParameters" Type="StartUp" Visible="0">
+    <Extension Name="StartUpPrev" Value="ed06d0b4-f4b1-4d1f-aa9f-1f690b787c69"/>
+</Info>

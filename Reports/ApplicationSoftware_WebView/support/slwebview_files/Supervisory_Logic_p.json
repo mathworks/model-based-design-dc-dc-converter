@@ -1,0 +1,157 @@
+[
+ {
+  "sid":"Supervisory_Logic",
+  "inspector":{
+   "params":[
+    "ModelVersion",
+    "LastModifiedDate",
+    "LibraryLinkDisplay",
+    "ModelBrowserVisibility",
+    "Dirty",
+    "Description"
+   ],
+   "values":[
+    "8.51",
+    "Wed Jun 26 17:00:41 2024",
+    "disabled",
+    "off",
+    "off",
+    ""
+   ],
+   "tabs":[
+   ],
+   "tabs_idx":[
+   ]
+  },
+  "viewer":{
+   "jshandler":"webview/handlers/ElementHandler"
+  },
+  "obj_viewer":[
+  ],
+  "finder":[
+  ]
+ },
+ {
+  "sid":"Supervisory_Logic:148",
+  "inspector":{
+   "params":[
+    "ShowPortLabels",
+    "Permissions",
+    "ErrorFcn",
+    "PermitHierarchicalResolution",
+    "TreatAsAtomicUnit",
+    "ShowSubsystemReinitializePorts",
+    "MinAlgLoopOccurrences",
+    "SystemSampleTime",
+    "RTWSystemCode",
+    "RTWFcnNameOpts",
+    "RTWFileNameOpts",
+    "RTWMemSecFuncInitTerm",
+    "RTWMemSecFuncExecute",
+    "AllowFlexibleInterface",
+    "AllowZeroVariantControls",
+    "AutoFrameSizeCalculation",
+    "BlockChoice",
+    "CompiledActiveChoiceBlock",
+    "CompiledActiveChoiceControl",
+    "CompiledVariantActivationTime",
+    "ExecutionDomainType",
+    "FunctionInterfaceSpec",
+    "FunctionWithSeparateData",
+    "IsSubsystemVirtual",
+    "LabelModeActiveChoice",
+    "Latency",
+    "MemberBlocks",
+    "PartitionName",
+    "PropagateVariantConditions",
+    "RTWFcnName",
+    "RTWFileName",
+    "RTWMemSecDataConstants",
+    "RTWMemSecDataInternal",
+    "RTWMemSecDataParameters",
+    "ReferencedSubsystem",
+    "ScheduleAs",
+    "SetExecutionDomain",
+    "TemplateBlock",
+    "TreatAsGroupedWhenPropagatingVariantConditions",
+    "Variant",
+    "VariantActivationTime",
+    "VariantChoices",
+    "VariantChoicesEnumeration",
+    "VariantChoicesSpecifier",
+    "VariantControl",
+    "VariantControlMode",
+    "VariantControlVariable"
+   ],
+   "values":[
+    "FromPortIcon",
+    "ReadWrite",
+    "",
+    "All",
+    "on",
+    "off",
+    "off",
+    "-1",
+    "Reusable function",
+    "Use subsystem name",
+    "Auto",
+    "Inherit from model",
+    "Inherit from model",
+    "on",
+    "off",
+    "off",
+    "",
+    "",
+    "",
+    "update diagram",
+    "Deduce",
+    "void_void",
+    "off",
+    "off",
+    "",
+    "0",
+    "",
+    "",
+    "off",
+    "",
+    "",
+    "Inherit from model",
+    "Inherit from model",
+    "Inherit from model",
+    "",
+    "Sample time",
+    "off",
+    "",
+    "on",
+    "off",
+    "update diagram",
+    [
+    ],
+    "",
+    "",
+    "",
+    "expression",
+    ""
+   ],
+   "tabs":[
+    "Main",
+    "Code Generation",
+    "-Other"
+   ],
+   "tabs_idx":[
+    0,
+    8,
+    13
+   ]
+  },
+  "viewer":{
+   "jshandler":"webview/handlers/ElementHandler"
+  },
+  "obj_viewer":[
+  ],
+  "finder":{
+   "blocktype":"SubSystem",
+   "masktype":""
+  }
+ }
+]

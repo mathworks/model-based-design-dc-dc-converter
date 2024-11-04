@@ -1,0 +1,18 @@
+<!--
+Use the <exclude> tag to exclude files or folders.Excluded files are relative to the location of this exclude.xml file.  Either forward or backward slashes can be used as file separators.
+Examples:
+	<exclude>foo.m</exclude> foo.m in same folder as exclude.xml
+	<exclude>myfiles/foo.m</exclude> foo.m in myfiles directory at same level as exclude.xml
+	<exclude>myfiles</exclude> myfiles directory
+The following are excluded automatically:
+* This exclude.xml file
+* ReadMe.md (case-insensitive)
+* "Internal" folders (case-insensitive)
+* WebEx Poll files (anything with *.atp extension)
+* All git files (.git, .gitmodules, etc.)
+-->
+
+<xml>
+	<exclude>Internal</exclude>
+    <exclude>Documentation/UpgradeReport</exclude>
+</xml>

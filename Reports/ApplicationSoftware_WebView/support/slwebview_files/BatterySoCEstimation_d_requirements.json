@@ -1,0 +1,233 @@
+[
+ {
+  "sid":"BatterySoCEstimation:14",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:15",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:16",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:17",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:18",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:19",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:20",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:21",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:22",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:23",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:24",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:25",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:40",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:41",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:42",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:43",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:44",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:48",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:47",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:46",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:45",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:21#out:1;line",
+  "informer":[
+  ],
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:22#out:1;line",
+  "informer":[
+  ],
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:41#out:1;line",
+  "informer":[
+  ],
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:18#out:1;line",
+  "informer":[
+  ],
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:23#out:1;line",
+  "informer":[
+  ],
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:14#out:1;line",
+  "informer":[
+  ],
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:17#out:1;line",
+  "informer":[
+  ],
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:19#out:1;line",
+  "informer":[
+  ],
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:40#out:1;line",
+  "informer":[
+  ],
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:17#out:2;line",
+  "informer":[
+  ],
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:24#out:1;line",
+  "informer":[
+  ],
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:16#out:1;line",
+  "informer":[
+  ],
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:15#out:1;line",
+  "informer":[
+  ],
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:25#out:1;line",
+  "informer":[
+  ],
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:20#out:1;line",
+  "informer":[
+  ],
+  "viewer":[
+  ]
+ }
+]

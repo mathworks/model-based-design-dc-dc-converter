@@ -1,0 +1,15 @@
+[
+ {
+  "sid":"OperatingModeAndErrorLogic",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"OperatingModeAndErrorLogic:9",
+  "informer":"<html><head><meta charset=\"UTF-8\"></head><body>\n<h2><font color=\"#993300\">\"OperatingModeManagement\" <i>(Stateflow diagram)</i></font></h2>\n<hr>\n<font color=\"#993300\"><h3>1. link #8</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">SupervisoryLogic_System_Requirements.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">3.1.2 Operating Mode Management High Level Requirements</font><br/>\n</font>\n<div class=WordSection1>\n\n<h3><span lang=EN-US>3.1.2    Operating Mode Management High Level Requirements</span></h3>\n\n<p class=MsoNormal><i>OperatingModeManagement </i>software component shall\nimplement following functionalities:</p>\n\n<p class=MsoNormal style='margin-left:36.0pt;text-indent:-18.0pt'><span\nstyle='font-family:Symbol'>·    </span>Divide operational states of system into\n6 main operating states: </p>\n\n<p class=MsoNormal style='margin-left:72.0pt;text-indent:-18.0pt'><a\nname=\"_Hlk151990449\"><span style='font-family:\"Courier New\"'>o  </span><i>All\nControls Open Loop</i></a></p>\n\n<p class=MsoNormal style='margin-left:72.0pt;text-indent:-18.0pt'><a\nname=\"_Hlk151990495\"><span style='font-family:\"Courier New\"'>o  </span><i>Voltage\nControl Open Loop, LEDs Closed Loop Control</i></a></p>\n\n<p class=MsoNormal style='margin-left:72.0pt;text-indent:-18.0pt'><a\nname=\"_Hlk151990501\"><span style='font-family:\"Courier New\"'>o  </span><i>Voltage\nControl Closed Loop, LEDs Open Loop Control</i></a></p>\n\n<p class=MsoNormal style='margin-left:72.0pt;text-indent:-18.0pt'><span\nstyle='font-family:\"Courier New\"'>o  </span><i>All Controls Loop Closed</i></p>\n\n<p class=MsoNormal style='margin-left:72.0pt;text-indent:-18.0pt'><span\nstyle='font-family:\"Courier New\"'>o  </span><i>Automatic Operation</i></p>\n\n<p class=MsoNormal style='margin-left:72.0pt;text-indent:-18.0pt'><span\nstyle='font-family:\"Courier New\"'>o  </span><i>No Output</i></p>\n\n<p class=MsoNormal style='margin-left:36.0pt;text-indent:-18.0pt'><span\nstyle='font-family:Symbol'>·    </span>Has a parallel logic monitoring fault signal.</p>\n\n<p class=MsoNormal style='margin-left:36.0pt;text-indent:-18.0pt'><span\nstyle='font-family:Symbol'>·    </span>Manage transitions between operation\nstates based on operational state request from user, sensor measurement, faults,\nand battery pack measurements. </p>\n\n</div>\n</body></html>\n",
+  "viewer":{
+   "color":"orange"
+  }
+ }
+]

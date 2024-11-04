@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Info File="Helpers/Shortcuts/OpenStartingPageLiveScript.m" GroupUUID="" Icon="" Name="Starting Page" Type="StartUp" Visible="1">
+    <Extension Name="StartUpPrev" Value="ddfbc705-75e4-4837-a36d-1aa41843dcc5"/>
+</Info>

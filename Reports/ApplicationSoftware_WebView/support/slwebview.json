@@ -1,0 +1,152 @@
+{
+ "version":3,
+ "baseUrl":"support/slwebview_files",
+ "homeHid":1,
+ "sections":[
+  {
+   "hid":1,
+   "sid":"Application_Software",
+   "name":"Application_Software",
+   "fullname":"Application_Software",
+   "label":"Application_Software",
+   "parent":0,
+   "descendantIDs":[
+   ],
+   "descendantsURL":"support/slwebview_files/Application_Software_diagrams_1.json",
+   "sysViewURL":"support/slwebview_files/Application_Software_p.json",
+   "optViewURLs":{
+    "requirements":"support/slwebview_files/Application_Software_p_requirements.json"
+   }
+  },
+  {
+   "hid":2,
+   "sid":"Closed_Loop_LEDControllers",
+   "name":"Closed_Loop_Control_Current (Closed_Loop_LEDControllers)",
+   "fullname":"Application_Software/Closed_Loop_Control_Current (Closed_Loop_LEDControllers)",
+   "label":"Closed_Loop_Control_Current (Closed_Loop_LEDControllers)",
+   "parent":1,
+   "descendantIDs":[
+    3,
+    161,
+    319,
+    477,
+    635,
+    793
+   ],
+   "descendantsURL":"support/slwebview_files/Closed_Loop_LEDControllers_diagrams_2.json",
+   "sysViewURL":"support/slwebview_files/Closed_Loop_LEDControllers_p.json",
+   "optViewURLs":{
+    "requirements":"support/slwebview_files/Closed_Loop_LEDControllers_p_requirements.json"
+   }
+  },
+  {
+   "hid":951,
+   "sid":"Closed_Loop_Control_Voltage",
+   "name":"Closed_Loop_Control_Voltage (Closed_Loop_Control_Voltage)",
+   "fullname":"Application_Software/Closed_Loop_Control_Voltage (Closed_Loop_Control_Voltage)",
+   "label":"Closed_Loop_Control_Voltage (Closed_Loop_Control_Voltage)",
+   "parent":1,
+   "descendantIDs":[
+   ],
+   "descendantsURL":"support/slwebview_files/Closed_Loop_Control_Voltage_diagrams_951.json",
+   "sysViewURL":"support/slwebview_files/Closed_Loop_Control_Voltage_p.json",
+   "optViewURLs":{
+    "requirements":"support/slwebview_files/Closed_Loop_Control_Voltage_p_requirements.json"
+   }
+  },
+  {
+   "hid":1108,
+   "sid":"Load_Current_Limits",
+   "name":"Load_Current_Limits (Load_Current_Limits)",
+   "fullname":"Application_Software/Load_Current_Limits (Load_Current_Limits)",
+   "label":"Load_Current_Limits (Load_Current_Limits)",
+   "parent":1,
+   "descendantIDs":[
+   ],
+   "descendantsURL":"support/slwebview_files/Load_Current_Limits_diagrams_1108.json",
+   "sysViewURL":"support/slwebview_files/Load_Current_Limits_p.json",
+   "optViewURLs":{
+    "requirements":"support/slwebview_files/Load_Current_Limits_p_requirements.json"
+   }
+  },
+  {
+   "hid":1110,
+   "sid":"Supervisory_Logic",
+   "name":"Supervisory_Logic (Supervisory_Logic)",
+   "fullname":"Application_Software/Supervisory_Logic (Supervisory_Logic)",
+   "label":"Supervisory_Logic (Supervisory_Logic)",
+   "parent":1,
+   "descendantIDs":[
+    1111
+   ],
+   "descendantsURL":"support/slwebview_files/Supervisory_Logic_diagrams_1110.json",
+   "sysViewURL":"support/slwebview_files/Supervisory_Logic_p.json",
+   "optViewURLs":{
+    "requirements":"support/slwebview_files/Supervisory_Logic_p_requirements.json"
+   }
+  },
+  {
+   "hid":1112,
+   "sid":"Supervisory_Logic:182",
+   "name":"BatterySoCEstimation  (BatterySoCEstimation)",
+   "fullname":"Application_Software/Supervisory_Logic (Supervisory_Logic)/SupervisoryLogic/BatterySoCEstimation  (BatterySoCEstimation)",
+   "label":"BatterySoCEstimation  (BatterySoCEstimation)",
+   "parent":1111,
+   "descendantIDs":[
+    1113,
+    1114,
+    1115,
+    1116,
+    1117
+   ],
+   "descendantsURL":"support/slwebview_files/Supervisory_Logic_182_diagrams_1112.json",
+   "sysViewURL":"support/slwebview_files/BatterySoCEstimation_p.json",
+   "optViewURLs":{
+    "requirements":"support/slwebview_files/BatterySoCEstimation_p_requirements.json"
+   }
+  },
+  {
+   "hid":1118,
+   "sid":"Supervisory_Logic:131",
+   "name":"OperatingModeAndErrorLogic (OperatingModeAndErrorLogic)",
+   "fullname":"Application_Software/Supervisory_Logic (Supervisory_Logic)/SupervisoryLogic/OperatingModeAndErrorLogic (OperatingModeAndErrorLogic)",
+   "label":"OperatingModeAndErrorLogic (OperatingModeAndErrorLogic)",
+   "parent":1111,
+   "descendantIDs":[
+    1121
+   ],
+   "descendantsURL":"support/slwebview_files/Supervisory_Logic_131_diagrams_1118.json",
+   "sysViewURL":"support/slwebview_files/OperatingModeAndErrorLogic_p.json",
+   "optViewURLs":{
+    "requirements":"support/slwebview_files/OperatingModeAndErrorLogic_p_requirements.json"
+   }
+  },
+  {
+   "hid":1122,
+   "sid":"Supervisory_Logic:34",
+   "name":"ReferenceOutputSafetyLimitation (ReferenceOutputSafetyLimitation)",
+   "fullname":"Application_Software/Supervisory_Logic (Supervisory_Logic)/SupervisoryLogic/ReferenceOutputSafetyLimitation (ReferenceOutputSafetyLimitation)",
+   "label":"ReferenceOutputSafetyLimitation (ReferenceOutputSafetyLimitation)",
+   "parent":1111,
+   "descendantIDs":[
+   ],
+   "descendantsURL":"support/slwebview_files/Supervisory_Logic_34_diagrams_1122.json",
+   "sysViewURL":"support/slwebview_files/ReferenceOutputSafetyLimitation_p.json",
+   "optViewURLs":{
+    "requirements":"support/slwebview_files/ReferenceOutputSafetyLimitation_p_requirements.json"
+   }
+  }
+ ],
+ "optViews":[
+  {
+   "id":"requirements",
+   "name":"Requirements",
+   "icon":"requirements_requirements_icon"
+  }
+ ],
+ "display":{
+  "informer":false,
+  "notes":false
+ },
+ "iconsUrl":"support/slwebview_files/icon.css"
+}

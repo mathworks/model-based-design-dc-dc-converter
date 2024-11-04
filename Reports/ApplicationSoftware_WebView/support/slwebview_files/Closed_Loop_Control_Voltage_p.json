@@ -1,0 +1,34 @@
+[
+ {
+  "sid":"Closed_Loop_Control_Voltage",
+  "inspector":{
+   "params":[
+    "ModelVersion",
+    "LastModifiedDate",
+    "LibraryLinkDisplay",
+    "ModelBrowserVisibility",
+    "Dirty",
+    "Description"
+   ],
+   "values":[
+    "9.51",
+    "Wed Jun 26 17:00:41 2024",
+    "disabled",
+    "off",
+    "off",
+    ""
+   ],
+   "tabs":[
+   ],
+   "tabs_idx":[
+   ]
+  },
+  "viewer":{
+   "jshandler":"webview/handlers/ElementHandler"
+  },
+  "obj_viewer":[
+  ],
+  "finder":[
+  ]
+ }
+]

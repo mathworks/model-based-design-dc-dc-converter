@@ -1,0 +1,34 @@
+[
+ {
+  "sid":"BatterySoCEstimation:28",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:29",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:30",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:28#out:1;line",
+  "informer":[
+  ],
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:29#out:1;line",
+  "informer":[
+  ],
+  "viewer":[
+  ]
+ }
+]

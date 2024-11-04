@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Info File="Helpers/cleanup.m" GroupUUID="default" Icon="" Name="cleanup" Type="Shutdown" Visible="0">
+    <Extension Name="ShutdownPrev" Value="HEAD"/>
+</Info>

@@ -1,0 +1,47 @@
+[
+ {
+  "sid":"BatterySoCEstimation:32",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:33",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:37",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:38",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:33#out:1;line",
+  "informer":[
+  ],
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:37#out:1;line",
+  "informer":[
+  ],
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"BatterySoCEstimation:32#out:1;line",
+  "informer":[
+  ],
+  "viewer":[
+  ]
+ }
+]

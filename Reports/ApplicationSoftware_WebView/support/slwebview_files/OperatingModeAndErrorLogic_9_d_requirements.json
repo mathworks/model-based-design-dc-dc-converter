@@ -1,0 +1,255 @@
+[
+ {
+  "sid":"OperatingModeAndErrorLogic:9:45",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"OperatingModeAndErrorLogic:9:83",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"OperatingModeAndErrorLogic:9:57",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"OperatingModeAndErrorLogic:9:44",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"OperatingModeAndErrorLogic:9:84",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"OperatingModeAndErrorLogic:9:85",
+  "informer":"<html><head><meta charset=\"UTF-8\"></head><body>\n<h2><font color=\"#993300\">\"CheckingFault\" <i>(State)</i></font></h2>\n<hr>\n<font color=\"#993300\"><h3>1. link #7</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">SupervisoryLogic_System_Requirements.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">3.1.2.9 Fault Flag Monitoring</font><br/>\n</font>\n<div class=WordSection1>\n\n<h4><span lang=EN-US>3.1.2.9    Fault Flag Monitoring</span></h4>\n\n<p class=MsoNormal>In this state machine, the Zero Output Enable is set to\nfalse if the Fault Exist Flag is false. The initial state should be true in\norder to ensure no power at the start of operation.</p>\n\n<p class=MsoNormal>&nbsp;</p>\n\n</div>\n</body></html>\n",
+  "viewer":{
+   "color":"orange"
+  }
+ },
+ {
+  "sid":"OperatingModeAndErrorLogic:9:48",
+  "informer":"<html><head><meta charset=\"UTF-8\"></head><body>\n<h2><font color=\"#993300\">\"AllOpenLoop\" <i>(State)</i></font></h2>\n<hr>\n<font color=\"#993300\"><h3>1. link #1</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">SupervisoryLogic_System_Requirements.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">3.1.2.3 All Controls Open Loop mode</font><br/>\n</font>\n<div class=WordSection1>\n\n<h4><span lang=EN-US>3.1.2.3    All Controls Open Loop mode</span></h4>\n\n<p class=MsoNormal>In this operating mode, the closed loop enable outputs for\nboth voltage and LED current control are set to 0.</p>\n\n</div>\n</body></html>\n",
+  "viewer":{
+   "color":"orange"
+  }
+ },
+ {
+  "sid":"OperatingModeAndErrorLogic:9:52",
+  "informer":"<html><head><meta charset=\"UTF-8\"></head><body>\n<h2><font color=\"#993300\">\"VoltOpen_CurrClosed\" <i>(State)</i></font></h2>\n<hr>\n<font color=\"#993300\"><h3>1. link #18</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">SupervisoryLogic_System_Requirements.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">3.1.2.4 Voltage Control Open Loop, LEDs </font><br/>\n</font>\n<h3>Voltage Control Open Loop, LEDs Closed Loop Control mode</h3>\n<div class=WordSection1>\n\n<h4><span lang=EN-US>3.1.2.4    Voltage Control Open Loop, LEDs Closed Loop\nControl mode</span></h4>\n\n<p class=MsoNormal>In this operating mode, the closed loop enable output LED\ncurrent control is to 1, whilst the voltage control is set to 0.</p>\n\n</div>\n</body></html>\n",
+  "viewer":{
+   "color":"orange"
+  }
+ },
+ {
+  "sid":"OperatingModeAndErrorLogic:9:53",
+  "informer":"<html><head><meta charset=\"UTF-8\"></head><body>\n<h2><font color=\"#993300\">\"VoltClosed_CurrOpen\" <i>(State)</i></font></h2>\n<hr>\n<font color=\"#993300\"><h3>1. link #3</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">SupervisoryLogic_System_Requirements.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">3.1.2.5 Voltage Control Closed Loop, LED</font><br/>\n</font>\n<h3>Voltage Control Closed Loop, LEDs Open Loop Control mode</h3>\n<div class=WordSection1>\n\n<h4><span lang=EN-US>3.1.2.5    Voltage Control Closed Loop, LEDs Open Loop\nControl mode</span></h4>\n\n<p class=MsoNormal>In this operating mode, the closed loop enable output LED\ncurrent control is to 0, whilst the voltage control is set to 1.</p>\n\n<p class=MsoNormal>&nbsp;</p>\n\n</div>\n</body></html>\n",
+  "viewer":{
+   "color":"orange"
+  }
+ },
+ {
+  "sid":"OperatingModeAndErrorLogic:9:50",
+  "informer":"<html><head><meta charset=\"UTF-8\"></head><body>\n<h2><font color=\"#993300\">\"AllClosedLoop\" <i>(State)</i></font></h2>\n<hr>\n<font color=\"#993300\"><h3>1. link #4</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">SupervisoryLogic_System_Requirements.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">3.1.2.6 All Controls Loop Closed mode</font><br/>\n</font>\n<div class=WordSection1>\n\n<h4><span lang=EN-US>3.1.2.6    All Controls Loop Closed mode</span></h4>\n\n<p class=MsoNormal>In this operating mode, the closed loop enable outputs for\nboth voltage and LED current control are set to 1.</p>\n\n</div>\n</body></html>\n",
+  "viewer":{
+   "color":"orange"
+  }
+ },
+ {
+  "sid":"OperatingModeAndErrorLogic:9:129",
+  "informer":"<html><head><meta charset=\"UTF-8\"></head><body>\n<h2><font color=\"#993300\">\"AutomaticOperation\" <i>(State)</i></font></h2>\n<hr>\n<font color=\"#993300\"><h3>1. link #5</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">SupervisoryLogic_System_Requirements.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">3.1.2.7 Automatic Operation mode</font><br/>\n</font>\n<div class=WordSection1>\n\n<h4><span lang=EN-US>3.1.2.7    Automatic Operation mode</span></h4>\n\n<p class=MsoNormal>Automatic Operation mode will work in open loop as long as\nthe error between voltage command and measured voltage is larger than 2\nvoltage, and will switch to closed loop voltage control  once the error is\nunder 1.5 voltage. The voltage control is closed first, then one sampling time\n(tick) after it will close the LED current control.</p>\n\n</div>\n</body></html>\n",
+  "viewer":{
+   "color":"orange"
+  }
+ },
+ {
+  "sid":"OperatingModeAndErrorLogic:9:103",
+  "informer":"<html><head><meta charset=\"UTF-8\"></head><body>\n<h2><font color=\"#993300\">\"NoOutput\" <i>(State)</i></font></h2>\n<hr>\n<font color=\"#993300\"><h3>1. link #6</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">SupervisoryLogic_System_Requirements.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">3.1.2.8 No Output mode</font><br/>\n</font>\n<div class=WordSection1>\n\n<h4><span lang=EN-US>3.1.2.8    No Output mode</span></h4>\n\n<p class=MsoNormal>In this mode, the Zero Output Enable flag is set to true.\nThis flag will be used by the controller to impose a 0% duty cycle</p>\n\n</div>\n</body></html>\n",
+  "viewer":{
+   "color":"orange"
+  }
+ },
+ {
+  "sid":"OperatingModeAndErrorLogic:9:96",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"OperatingModeAndErrorLogic:9:95",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"OperatingModeAndErrorLogic:9:108",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"OperatingModeAndErrorLogic:9:97",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"OperatingModeAndErrorLogic:9:98",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"OperatingModeAndErrorLogic:9:111",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"OperatingModeAndErrorLogic:9:99",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"OperatingModeAndErrorLogic:9:112",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"OperatingModeAndErrorLogic:9:100",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"OperatingModeAndErrorLogic:9:101",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"OperatingModeAndErrorLogic:9:102",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"OperatingModeAndErrorLogic:9:113",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"OperatingModeAndErrorLogic:9:128",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"OperatingModeAndErrorLogic:9:130",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"OperatingModeAndErrorLogic:9:105",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"OperatingModeAndErrorLogic:9:131",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"OperatingModeAndErrorLogic:9:114",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"OperatingModeAndErrorLogic:9:118",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"OperatingModeAndErrorLogic:9:116",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"OperatingModeAndErrorLogic:9:123",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"OperatingModeAndErrorLogic:9:125",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"OperatingModeAndErrorLogic:9:124",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"OperatingModeAndErrorLogic:9:132",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"OperatingModeAndErrorLogic:9:137",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"OperatingModeAndErrorLogic:9:134",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"OperatingModeAndErrorLogic:9:133",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"OperatingModeAndErrorLogic:9:135",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"OperatingModeAndErrorLogic:9:139",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"OperatingModeAndErrorLogic:9:138",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ }
+]

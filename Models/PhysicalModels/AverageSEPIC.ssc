@@ -1,0 +1,43 @@
+%Copyright 2020 - 2020 The MathWorks, Inc.
+component AverageSEPIC
+% Average SEPIC model
+% This is the implementation of an SEPIC Model using lossless component and 
+% the small ripple approximation. 
+% Vout = Vin * DC/(1-DC)
+% Iin = -Iout *DC/(1-DC) 
+
+
+inputs
+    DC = { 0.0, '1' }; % dS:left
+end
+
+nodes
+    p1 = foundation.electrical.electrical; % 1+:left
+    n1 = foundation.electrical.electrical; % 1-:left
+    p2 = foundation.electrical.electrical; % 2+:right
+    n2 = foundation.electrical.electrical; % 2-:right
+end
+
+
+variables
+    i1 = { 0, 'A' }; % Primary current
+    v1 = { 0, 'V' }; % Primary voltage
+    i2 = { 0, 'A' }; % Secondary current
+    v2 = { 0, 'V' }; % Secondary voltage
+    n = 1;
+end
+
+branches
+    i1 : p1.i -> n1.i;
+    i2 : p2.i -> n2.i;
+end
+
+equations
+    n == DC/(1-DC); 
+    v1 == p1.v - n1.v;
+    v2 == p2.v - n2.v;
+    v2 == n*v1;
+    i1 == -n*i2;
+end
+
+end
